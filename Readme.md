@@ -11,9 +11,11 @@ http://localhost:8080/api/auth/register
 **JSON body**
 
 {
+
 "username":"user7",
 "email":"username123@gmail.com",
 "password":"12345"
+
 }
 
 ## Login user
@@ -27,9 +29,10 @@ http://localhost:8080/api/auth/login
 **JSON body**
 
 {
+
 "username":"jaismin",
 
-    "password":"12345"
+"password":"12345"
 
 }
 
@@ -46,9 +49,11 @@ http://localhost:8080/api/users/:id
 **JSON body**
 
 {
+
 "username":"user7",
 "email":"username123@gmail.com",
 "password":"12345"
+
 }
 
 ## Delete user
@@ -98,6 +103,7 @@ http://localhost:8080/api/products/uploadProduct
 **JSON body**
 
 {
+
 "title":"phoneRealme",
 "desc":"this is phone",
 "categories":[
@@ -121,6 +127,7 @@ http://localhost:8080/api/products/updateProduct/:id
 **JSON body**
 
 {
+
 "title":"phoneRealme",
 "desc":"this is phone",
 "categories":[
@@ -182,6 +189,7 @@ http://localhost:8080/api/orders/placeOrder
 **JSON body**
 
 {
+
 "userId":"632b1f483401d19b95b849a6",
 "products":[
 {
@@ -210,6 +218,7 @@ http://localhost:8080/api/orders/updateOrder/:id
 **JSON body**
 
 {
+
 "userId":"632b1f483401d19b95b849a6",
 "products":[
 {
@@ -251,6 +260,7 @@ http://localhost:8080/api/orders/findOrderedProducts/:id
 **JSON body**
 
 {
+
 "search_query":"cha"
 
 }
@@ -294,5 +304,7 @@ http://localhost:8080/api/orders/getCustomer
 **JSON body**
 
 {
+
 "status":"sucsess"
+
 }
