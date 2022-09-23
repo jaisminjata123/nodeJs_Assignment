@@ -175,7 +175,7 @@ token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMmIxZjQ4MzQwMWQxOWI5NWI4N
 
 http://localhost:8080/api/products
 
-## place order
+## Place order
 
 ### ASK required
 
@@ -205,7 +205,7 @@ http://localhost:8080/api/orders/placeOrder
 
 }
 
-## update order
+## Update order
 
 ### ASK required
 
@@ -235,7 +235,7 @@ http://localhost:8080/api/orders/updateOrder/:id
 
 }
 
-## cancel order
+## Cancel order
 
 ### ASK required
 
