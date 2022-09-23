@@ -1,4 +1,6 @@
 # API documentation
+### npm install
+### nodemon server.js
 
 ## Register new user
 
