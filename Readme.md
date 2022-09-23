@@ -124,6 +124,7 @@ http://localhost:8080/api/products/uploadProduct
 token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMmIxZjQ4MzQwMWQxOWI5NWI4NDlhNiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY2MzkwOTU5MiwiZXhwIjoxNjY0MTY4NzkyfQ.TLvlVh-70AzF5fBX2g4siv1xqqae_wtOZt2XMXlH8x0
 
 http://localhost:8080/api/products/updateProduct/:id
+
 **JSON body**
 
 {
@@ -215,6 +216,7 @@ http://localhost:8080/api/orders/placeOrder
 token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMmIxZjQ4MzQwMWQxOWI5NWI4NDlhNiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY2MzkwOTU5MiwiZXhwIjoxNjY0MTY4NzkyfQ.TLvlVh-70AzF5fBX2g4siv1xqqae_wtOZt2XMXlH8x0
 
 http://localhost:8080/api/orders/updateOrder/:id
+
 **JSON body**
 
 {
